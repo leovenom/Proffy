@@ -21,7 +21,7 @@
   --color-box-footer: #FAFAFC;
 }
 
-*  {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -31,7 +31,7 @@ html, body, #root {
   height: 100vh;
 }
 
-body  {
+body {
   background: var(--color-background);
 }
 

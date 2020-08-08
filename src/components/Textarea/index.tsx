@@ -5,9 +5,7 @@ import './styles.css';
 interface TextareaProps extends TextareaHTMLAttributes<HTMLTextAreaElement> {
   name: string;
   label: string;
-
 }
-
 
 const Textarea: React.FC<TextareaProps> = ({ label, name, ...rest }) => {
   return (
@@ -15,7 +13,7 @@ const Textarea: React.FC<TextareaProps> = ({ label, name, ...rest }) => {
       <label htmlFor={name}>{label}</label>
       <textarea id={name} {...rest} />
     </div>
-  );
+  )
 }
 
 export default Textarea;
