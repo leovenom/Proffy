@@ -79,19 +79,6 @@ This project was made using the follow technologies:
 # Clone Repository
 $ git clone https://github.com/leovenom/Proffy.git
 ```
-### 📦 Run API
-
-```bash
-# Go to server folder
-$ cd Proffy/server
-
-# Install Dependencies
-$ yarn install
-
-# Run Aplication
-$ yarn start
-```
-Access API at http://localhost:3333/
 
 ### 💻 Run Web Project
 
