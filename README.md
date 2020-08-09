@@ -4,7 +4,7 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/leonardtlauenstein/">
-      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-leovenom-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-Leonardt-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/leovenom/proffy?color=774DD6">
 
