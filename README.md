@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+   <img src="./github/logo.png" alt="Proffy" width="280"/>
 </p>
 
 <p align="center">	
@@ -54,8 +54,8 @@
 
 ### Web Screenshot
 <div>
-   <img src="./.github/web-landing.png" width="400px">
-   <img src="./.github/web-list.png" width="400px">
+   <img src="./github/web-landing.png" width="400px">
+   <img src="./github/web-list.png" width="400px">
 </div>
 
 # :eyes: Demo Website
