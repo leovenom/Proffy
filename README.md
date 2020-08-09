@@ -20,7 +20,7 @@
   </a>
 </p>
 
-> :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
+ :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
 
 <p align="center">
     <a href="README.md">English</a>
@@ -47,9 +47,6 @@
     <a title="Download .fig Web" href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/17c8198d-4e67-4838-b18b-440cd2fdf37e/Proffy_Web.fig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200804T053236Z&X-Amz-Expires=86400&X-Amz-Signature=ba4ac9b73aca8c78671e5a872403d63b58e4ad69e3fd2d50b0ca57797173906d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Proffy_Web.fig%22">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
     </a>
-    <a title="Download .fig Mobile" href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/736336db-c43b-4319-ab44-594da9fb6cd0/Proffy_Mobile.fig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200804T053403Z&X-Amz-Expires=86400&X-Amz-Signature=01373fafe79f7e8ab5377c5f097e0268631e4a933cb1733dd8138e1bf66a8b09&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Proffy_Mobile.fig%22">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Mobile-black?style=flat-square&logo=figma&logoColor=red" width="215px"/>
-    </a>
 </p>
 
 ### Web Screenshot
@@ -62,6 +59,7 @@
 You can acess the website at:     
 👉  demo: https://proffy-react.netlify.app/
 
+<a href="https://app.netlify.com/sites/proffy-react/deploys" rel="nofollow"><img src="https://camo.githubusercontent.com/4616100dd5d5ab23054877ad948966b2c08aa134/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f36623133613462312d393665312d346666332d383665332d3463396239383163373763662f6465706c6f792d737461747573" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status" style="max-width:100%;"></a>
 
 # :computer: Technologies
 This project was made using the follow technologies:
